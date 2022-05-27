@@ -12,9 +12,12 @@ I'm passionate about **solving problems and learning.** Always open to new chall
 - 💻 Android Developer [PicPay](https://www.picpay.com/site)
 
 **Find me elsewhere** 👇🏼
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/gabriel-fernandes-lemos/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-critical?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/gaablemos/) [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=[https://codepen.io/isadorastan](https://codepen.io/isadorastan))](https://medium.com/@gabrielfernandeslemos)
-
+<div> 
+  <a href="https://www.linkedin.com/in/gabriel-fernandes-lemos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://medium.com/@gabrielfernandeslemos" target="_blank"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/gaablemos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabriel_lemos03@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 # Olá, Sou Gabriel Fernandes Lemos 👋
 
@@ -30,5 +33,9 @@ Sou apaixonado por **resolver problemas e aprender.** Sempre aberto a novos desa
 - 💻 Android Developer [PicPay](https://www.picpay.com/site)
 
 **Encontre-me em outros lugares** 👇🏼
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/gabriel-fernandes-lemos/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-critical?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/gaablemos/) [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=[https://codepen.io/isadorastan](https://codepen.io/isadorastan))](https://medium.com/@gabrielfernandeslemos)
+<div> 
+  <a href="https://www.linkedin.com/in/gabriel-fernandes-lemos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://medium.com/@gabrielfernandeslemos" target="_blank"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/gaablemos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabriel_lemos03@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
