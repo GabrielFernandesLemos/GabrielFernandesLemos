@@ -6,8 +6,6 @@ Practically **clean and testable code.**
 
 I'm passionate about **solving problems and learning.** Always open to new challenges and ready to face changes.
 
-### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
-
 - 📍 Born in **São Paulo**, Brazil 🇧🇷 
 - 💻 Android Developer [PicPay](https://www.picpay.com/site)
 
