@@ -1,6 +1,6 @@
 # Hey, I'm Gabriel Fernandes Lemos 👋
 
-I'm a **Android Developer**, that has been working as a Front-End developer since 2018.  💻
+I'm a **Android Developer**, that has been working as a Front-End developer since 2016.  💻
 
 Practically **clean and testable code.**
 
